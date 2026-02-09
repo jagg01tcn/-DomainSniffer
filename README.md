@@ -8,8 +8,6 @@ Repositorio orientado a demostrar técnicas de interceptación de tráfico DNS m
 
 ## Descripción técnica del script
 
-### `dns_arp_sniffer.py`
-
 #### Funcionalidad
 Script que realiza un ataque MITM mediante ARP spoofing entre una víctima y su gateway para capturar consultas DNS (UDP/53) y mostrar los dominios solicitados, evitando duplicados y filtrando dominios comunes para reducir ruido.
 
