@@ -1,11 +1,10 @@
-# DNS-ARP-Sniffer
+# DomainSniffer
+Herramienta en Python que ejecuta envenenamiento ARP bidireccional para interceptar consultas DNS de una víctima específica y enumerar dominios solicitados en tiempo real dentro de una red LAN.
+
 
 ## Propósito del repositorio
 
 Repositorio orientado a demostrar técnicas de interceptación de tráfico DNS mediante ARP spoofing en redes locales, con foco en análisis de exposición de comunicaciones sin cifrar y ataques Man-in-the-Middle en capa 2.
-
-**Descripción corta:**  
-Herramienta en Python que ejecuta envenenamiento ARP bidireccional para interceptar consultas DNS de una víctima específica y enumerar dominios solicitados en tiempo real dentro de una red LAN.
 
 ---
 
