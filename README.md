@@ -6,8 +6,6 @@ Herramienta en Python que ejecuta envenenamiento ARP bidireccional para intercep
 
 Repositorio orientado a demostrar técnicas de interceptación de tráfico DNS mediante ARP spoofing en redes locales, con foco en análisis de exposición de comunicaciones sin cifrar y ataques Man-in-the-Middle en capa 2.
 
----
-
 ## Descripción técnica de los scripts
 
 ### `dns_arp_sniffer.py`
