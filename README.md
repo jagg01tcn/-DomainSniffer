@@ -55,6 +55,8 @@ Script que realiza un ataque MITM mediante ARP spoofing entre una víctima y su 
 - Interfaz de red activa en la LAN objetivo
 
 ### Ejecución básica
+<img width="1881" height="684" alt="image" src="https://github.com/user-attachments/assets/27e11af7-7e52-4fbb-9026-45955b5ca5b1" />
+
 
 ```bash
 sudo python3 dns_arp_sniffer.py -i <interfaz> -t <ip_victima> -r <ip_router>
